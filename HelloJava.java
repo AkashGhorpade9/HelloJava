@@ -1,1 +1,5 @@
-System.out.Print("Hello JAva 2023");
+class HelloJava{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
